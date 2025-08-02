@@ -12,18 +12,18 @@
       "changelogTitle": "What's New",
       "changelog": "⟢ New User Interface.\n⟢ Bug Fixes & Improvements.\n⟢ App performance enhanced.",
       "updateButtonText": "Update Now",
-      "updateUrl": "https://play.google.com/store/apps/details?id=com.updatechecker"
+      "updateUrl": "https://t.me/+Yu2tSlqdKNszZjQ1"
     },
     {
-      "packageName": "com.another.app",
+      "packageName": "photo.editor.photoeditor.photoeditorpro",
       "showDialog": true,
-      "versionCode": 5,
-      "versionName": "2.5.1",
+      "versionCode": 223000,
+      "versionName": "1.661.223",
       "forceUpdate": true,
-      "changelogTitle": "Urgent Update",
-      "changelog": "⟢ A critical security issue has been fixed.\n⟢ Please update immediately.",
-      "updateButtonText": "Update Immediately",
-      "updateUrl": "https://your-download-link.com/app.apk"
+      "changelogTitle": "What's New",
+      "changelog": "⟢ New User Interface.\n⟢ Bug Fixes & Improvements.\n⟢ App performance enhanced.",
+      "updateButtonText": "Update Now",
+      "updateUrl": "https://t.me/+Yu2tSlqdKNszZjQ1"
     }
   ]
 }
