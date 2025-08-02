@@ -17,8 +17,8 @@
     {
       "packageName": "photo.editor.photoeditor.photoeditorpro",
       "showDialog": true,
-      "versionCode": 223004,
-      "versionName": "1.661.224",
+      "versionCode": 223000,
+      "versionName": "1.661.223",
       "forceUpdate": true,
       "changelogTitle": "What's New",
       "changelog": "⟢ New User Interface.\n⟢ Bug Fixes & Improvements.\n⟢ App performance enhanced.",
