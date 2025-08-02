@@ -8,7 +8,7 @@
       "showDialog": true,
       "versionCode": 2,
       "versionName": "1.1.0",
-      "forceUpdate": false,
+      "forceUpdate": true,
       "changelogTitle": "What's New",
       "changelog": "⟢ New User Interface.\n⟢ Bug Fixes & Improvements.\n⟢ App performance enhanced.",
       "updateButtonText": "Update Now",
