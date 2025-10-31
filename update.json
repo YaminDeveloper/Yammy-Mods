@@ -24,6 +24,17 @@
       "changelog": "⟢ New User Interface.\n⟢ Bug Fixes & Improvements.\n⟢ App performance enhanced.",
       "updateButtonText": "Update Now",
       "updateUrl": "https://t.me/+Yu2tSlqdKNszZjQ1"
+    },
+    {
+      "packageName": "app.revanced.android.apps.youtube.music",
+      "showDialog": true,
+      "versionCode": 2147483648,
+      "versionName": "8.42.54",
+      "forceUpdate": true,
+      "changelogTitle": "What's New",
+      "changelog": "⟢ New User Interface.\n⟢ Bug Fixes & Improvements.\n⟢ App performance enhanced.",
+      "updateButtonText": "Update Now",
+      "updateUrl": "https://t.me/+Yu2tSlqdKNszZjQ1"
     }
   ]
 }
