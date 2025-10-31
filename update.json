@@ -15,10 +15,10 @@
       "updateUrl": "https://t.me/+Yu2tSlqdKNszZjQ1"
     },
     {
-      "packageName": "app.revanced.android.apps.youtube.music",
+      "packageName": "com.imaginstudio.imagetools.pixellab",
       "showDialog": true,
-      "versionCode": 2147483648,
-      "versionName": "8.42.54",
+      "versionCode": 2.1.5,
+      "versionName": "60",
       "forceUpdate": true,
       "changelogTitle": "What's New",
       "changelog": "⟢ New User Interface.\n⟢ Bug Fixes & Improvements.\n⟢ App performance enhanced.",
